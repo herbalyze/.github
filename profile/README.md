@@ -1,9 +1,18 @@
-# Herbalyze
+<h1 align="center">Herbalyze: Classify of Herbal Plants</h1>
 
 There is a growing interest in natural remedies and plant-based solutions, yet accurately identifying plants and understanding their properties remains a significant challenge. Existing mobile apps often lack accuracy or require extensive botanical knowledge, limiting their accessibility and usefulness.
 
 ### Background
 
+There is a growing interest in natural remedies and plant-based solutions, yet accurately
+identifying plants and understanding their properties remains a significant challenge.
+Existing mobile apps often lack accuracy or require extensive botanical knowledge, limiting
+their accessibility and usefulness. Our project, Herbalyze, aims to revolutionize plant identification and knowledge retrieval.
+By leveraging advanced machine learning algorithms and extensive botanical databases,
+Herbalyze provides users with accurate and detailed information about plants, including
+their medicinal properties, potential benefits, and related diseases. This bridges the gap
+between plant identification and informed decision-making, empowering users to explore
+the plant world confidently.
 
 ### Team
 
@@ -21,8 +30,26 @@ There is a growing interest in natural remedies and plant-based solutions, yet a
 ***
 
 
-# Using the Application
+### Using the Application
 1. Log in to the application, you can using your credential account
 2. If you haven't create any account, click on register
 
+## Tech Stack
+### Machine Learning
 
+- TensorFlow
+- TensorFlow Lite
+
+### Cloud Computing
+
+- Express.js
+- MongoDB
+- Cloud Storage
+- Cloud Run
+- Postman
+
+### Mobile Development
+
+- Figma
+- Android Studio
+- Kotlin
