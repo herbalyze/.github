@@ -38,7 +38,7 @@ the plant world confidently.
 ### Machine Learning
 
 - TensorFlow
-- TensorFlow Lite
+- TensorFlow.js
 
 ### Cloud Computing
 
