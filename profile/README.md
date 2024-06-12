@@ -53,3 +53,4 @@ the plant world confidently.
 - Figma
 - Android Studio
 - Kotlin
+- Firebase
